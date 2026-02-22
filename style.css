@@ -753,6 +753,10 @@ strong {
         padding: 16px 28px;
     }
 
+    .hero__microcopy {
+        justify-content: center;
+    }
+
     .hero__photo-wrapper {
         max-width: 360px;
         margin: 0 auto;
