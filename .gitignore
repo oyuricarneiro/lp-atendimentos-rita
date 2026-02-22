@@ -3,3 +3,5 @@
 .fakehome
 .gh_config
 .netlify-config
+.tmp/
+.tmp-npm/
