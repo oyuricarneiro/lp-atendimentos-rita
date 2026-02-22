@@ -210,7 +210,7 @@ Consulta online, completa e estratégica.
 
 **Etapa 4: Entregáveis da consulta (o que você leva)**
 - Revisão dos exames enviados
-- Pedido de exames (quando necessário, para investigar o que realmente importa no seu caso)
+- interpretação de teste genéticos e exames (quando necessário, para investigar o que realmente importa no seu caso)
 - Prescrição (conforme avaliação e prioridade)
 - Plano alimentar aplicado à sua rotina
 - Plano inicial de 30-90 dias (com prioridades e sequência)
@@ -639,13 +639,13 @@ Card credencial 3 (bottom-right, overlap na fronteira):
 
 **7 perguntas:**
 1. O que eu recebo exatamente na consulta?
-   R: Uma consulta online de 2h, com revisão dos exames enviados, além de pedido de exames (quando necessário), prescrição, plano alimentar e um plano inicial de 30–90 dias.
+   R: Uma consulta online de 2h, com revisão dos exames enviados, além de interpretação de teste genéticos e exames (quando necessário), prescrição, plano alimentar e um plano inicial de 30–90 dias.
 
 2. A consulta é online?
    R: Sim. E há gravação no app.
 
 3. Preciso ter exames antes?
-   R: Não necessariamente. Se você já tiver exames recentes, você envia. Se não tiver, pode sair da consulta com pedido de exames adequado ao seu caso.
+   R: Não necessariamente. Se você já tiver exames recentes, você envia. Se não tiver, pode sair da consulta com interpretação de teste genéticos e exames adequado ao seu caso.
 
 4. Essa consulta serve para perimenopausa/menopausa?
    R: Sim — é um dos contextos comuns em que a avaliação e a estratégia personalizada fazem mais diferença (sono, humor, metabolismo, sintomas).

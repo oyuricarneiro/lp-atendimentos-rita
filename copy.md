@@ -71,7 +71,7 @@
 
   **4) Entregáveis da consulta (o que você leva)**
   - Revisão dos exames enviados
-  - Pedido de exames (quando necessário, para investigar o que realmente importa no seu caso)
+  - interpretação de teste genéticos e exames (quando necessário, para investigar o que realmente importa no seu caso)
   - Prescrição (conforme avaliação e prioridade)
   - Plano alimentar aplicado à sua rotina
   - Plano inicial de 30–90 dias (com prioridades e sequência)
